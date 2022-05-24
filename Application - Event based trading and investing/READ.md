@@ -24,11 +24,11 @@ SELL/SHORT: Insurance (ALL/TRV/CB/RNR/RE)
 
 **Overview:** The purpose of this entry is to discuss, assess, and analyze possible investments amid earth shattering events that will have a real market impact. Of course there is no guarantee that the markets will react the same way twice, but there are plenty of historical indicators to make these topics worth looking into. By the end of this publication you should have a solid foundation on contingency planning for events and crises that will likely happen many times over in our lifetimes. The topics to be discussed will be updated from time to time and include the following:
 
-1️⃣ 1. Pandemics
-2️⃣ Recessions
-3️⃣ Wars, International Conflicts, & Cyber Attacks
-4️⃣ Natural Disasters
-5️⃣ Politics & Unrest
+-1️⃣ Pandemics
+-2️⃣ Recessions
+-3️⃣ Wars, International Conflicts, & Cyber Attacks
+-4️⃣ Natural Disasters
+-5️⃣ Politics & Unrest
    
 ## Part 1: Pandemics
 At the time of this report, most parts of the world were in the middle of the COVID-19 Pandemic. With its origin in China, the securities most affected initially were stocks of companies in China or heavily dependent on China. Disney closed down it's Chinese parks and Chinese box office revenue plummeted, Tesla shut down their Chinese plants, and Apple closed down much of their production in China. Initially, despite this news, the markets remained bullish. The announcements of these three companies, all on or before February 2nd 2020, did have a small negative effect on their share price, but for the most part the market as a whole continued moving along. It wasn't until February 20th, 19 days later, before it became evident that attempting to confine COVID-19 in China was not a possibility. When the mandatory quarantines were announced in the US, SPY dipped from $336 on February 20th to a low of $222 on March 23rd; a $114 drop.
