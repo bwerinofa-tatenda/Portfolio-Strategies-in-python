@@ -1,1 +1,45 @@
+# Event Driven Trading and Investing
 
+### Quick Reference
+Please understand the conditions surrounding these possible investments and do your own due diligence. Depending on certain underlying circumstances this list may not be appropriate considering the existing conditions. The purpose of this quick reference is strictly to provide stocks to consider in case of the following events. More in depth critical thinking is required before making these investment decisions. In short, do not blindly jump into these securities without doing your own due diligence.
+
+#### Pandemic
+BUY/LONG: Gold (GOLD/GDX/AUY/GLD/GDXJ), Volatility (VIX/VIXY/VIXM), Clorox (CLX), Work From Home (ZM/DOCU/DBX/WORK), Masks & Protective Wear (AHPI/APT/LAKE), Vaccines (NVAX/INO/MRNA/GILD)
+SELL/SHORT: Airlines (LUV/DAL/AAL/UAL), Car Rentals & Travel Services (CAR/HTZ.EXPE), Hotels (H/MAR/WYND/MGM/PK), Cruise Lines (RCL/CCL/NCLH), Oil (USO/CVX/XOM/XLE/BP).
+
+#### Recession
+BUY/LONG: Gold (GOLD/GDX/AUY/GLD/GDXJ), Volatility (VIX/VIXY/VIXM), Debt & Asset Recovery (PRAA ECPG), Discount Retailers (WMT/ROST/DLTR), Auto Parts & Maintenance (AZO/AAP/ORLY), Fast Food (MCD/YUM).
+
+#### War's, International Conflict & Cyber Attacks
+BUY/LONG: Gold (GOLD/GDX/AUY/GLD/GDXJ), Volatility (VIX/VIXY/VIXM), Cloud Security Firms (HACK, CRWD/FEYE), Oil (USO), Government Defense Contractors (XAR/NOC/GD/LMT/RTX/ITA).
+
+#### Natural Disasters:
+BUY/LONG: Retail & Home Improvement  (WMT/HD/LOW), Generators (GNRC), Carmax (KMX), Home Supplies & Repair (MAS), Offshore & Onshore oil/utility (MTRX), Clean Water (XYL).
+SELL/SHORT: Insurance (ALL/TRV/CB/RNR/RE)
+
+#### Politics & Unrest: This topic cannot be summarized here. Please read it below. 
+---------------------------------------------------------
+
+**Forward:** Have you ever seen the market react on rather underwhelming news that has little to no bearing on the fundamentals of a company? Frequently occurring examples include a company officer having a inappropriate relationship with a staffer, a un-sourced rumor in a news paper, or geopolitical saber rattling between the U.S. and Iran. The reasons the market reacts to these phenomena is simple; uncertainty. Not necessarily the uncertainty of a business's ability to turn a profit, but uncertainty of how other traders will react to the news. In short, an event that has no bearing on the profitability of a business can induce selling pressure and scare traders into dumping a stock. This being the case, imagine what happens when a REAL event unfolds. What if investors aren't uncertain, but VERY certain that an event will have wider implications on the market? How do we trade? What do we invest in? What do we do? 
+
+**Overview:** The purpose of this entry is to discuss, assess, and analyze possible investments amid earth shattering events that will have a real market impact. Of course there is no guarantee that the markets will react the same way twice, but there are plenty of historical indicators to make these topics worth looking into. By the end of this publication you should have a solid foundation on contingency planning for events and crises that will likely happen many times over in our lifetimes. The topics to be discussed will be updated from time to time and include the following:
+
+1️⃣ 1. Pandemics
+2️⃣ Recessions
+3️⃣ Wars, International Conflicts, & Cyber Attacks
+4️⃣ Natural Disasters
+5️⃣ Politics & Unrest
+   
+## Part 1: Pandemics
+At the time of this report, most parts of the world were in the middle of the COVID-19 Pandemic. With its origin in China, the securities most affected initially were stocks of companies in China or heavily dependent on China. Disney closed down it's Chinese parks and Chinese box office revenue plummeted, Tesla shut down their Chinese plants, and Apple closed down much of their production in China. Initially, despite this news, the markets remained bullish. The announcements of these three companies, all on or before February 2nd 2020, did have a small negative effect on their share price, but for the most part the market as a whole continued moving along. It wasn't until February 20th, 19 days later, before it became evident that attempting to confine COVID-19 in China was not a possibility. When the mandatory quarantines were announced in the US, SPY dipped from $336 on February 20th to a low of $222 on March 23rd; a $114 drop.
+
+As a result the U.S. Government passed the Cares Act on March 27th 2020. The Cares Act gave a one time cash payment to tax payers and billions in loans to business and industries to an overall tune of nearly $2 trillion. The expectation of passage alone was enough to halt the faltering market which began to rebound on March 24th. Thus far, as of June 5th 2020, SPY was back up to $319.
+
+Unlike the 2009 housing crisis, the COVID-19 Pandemic was not financial in nature, and therefore would not respond to stimulus the same way as endured during the "Great Recession." Businesses were perfectly viable when the Cares Act passed and the Act certainly could not cure the underlying cause of financial distress; mandated quarantines. However, as a result of shutting down schools, businesses, common areas, and international travel, the U.S. Government needed to increase spending to hold both people and businesses over until the medical infrastructure was in place to handle the most severe cases. Indeed it would be a fools errand to shut down commerce completely until a vaccine was eventually invented. The point of the Cares Act was simply to hold the economy afloat while quarantines slowed the spread of the virus and medical infrastructure could handle the increased demand in emergency services. 
+
+### 🟢 Pandemic Buying opportunities:
+- 🔘 **Gold:** On February 20th, when the markets began to tank and uncertainty hit, many investors went for the classic comfort zone; Gold. Initially as the market dipped Gold ETF's, Indexes, & mining companies enjoyed an spike in price action. However they too soon succumbed to selling pressure. Nevertheless, most reliable Gold ETN's, indexes, and mining companies were beating the S&P by mid April, and by late April they enjoyed a profit over their pre-pandemic highs. The graphic below compares SPY to the Spider Gold Trust Index (GLD), Barrick Gold (GOLD), VanEck Vectors Gold Miners ETF (GDX), VanEck Vectors Junior Gold Miners ETF (GDXJ), and Yamana Gold (AUY). GLD (Commodity Index ETF) proved to be the best protection from market selling forces while GOLD (Mining Company) proved to have the best recovery and profit by the 1st of June.
+- 🔘 **Volatility:** Those who had the foresight to bet on volatility as the market plummeted on February 20th saw returns as high as 450%! Traders of the CBOE Volatility Index (VIX) enjoyed up to 450% gains from February 20th to March 16th before tapering off slowly. Traders of the ProShares VIX Short-Term Futures ETF (VIXY) enjoyed up to a 400% increase from February 20th to March 18th. Finally, traders of the Proshares VIX Mid-Term Futures ETF (VIXM) enjoyed up to a 130% increase from February 20th to March 18th. And all while SPY was diving. Generally uncertainty breeds losses and volatility. And those who traded on VIX futures made a killing on the SPY pandemic drawback. 
+- 🔘 **Cleaning supplies and disinfectants:** One of the more obvious plays to trade the COVID-19 pandemic was Clorox(CLX). From February 20th til the market low on March 23rd CLX jumped 3%. By June 1st CLX enjoyed a 24% gain.
+- 🔘 **Companies supporting Work from Home:** Amid a nationwide quarantine, companies that enabled people to work remotely saw increased demand. Zoom (ZM) afforded businesses, governments, schools, and military to hold meetings and undertake online group projects. Docusign (DOCU) enabled workers to electronically sign documents on different devises, and had enough encryption to amount to a legal signature. Dropbox (DBX) afforded schools and businesses to transfer documents on common projects where it was necessary for multiple people to access the same work product. Slack Technologies (WORK) enabled businesses not only to send their employees home to work, but to also maintain supervision on workers as they work at home. When SPY was at down 33% on March 23rd, traders of ZM, DOCU, DBX, and WORK enjoyed a 54%, -8%, -6%, and -10%, respectivly. By June 1st these securities were up about 97%, 60%, 36%, and 28%, respectively.
+- 🔘 **Masks & Protective Wear:** One of the most lucrative investments during the early stages of the COVID-19 pandemic were some of the smaller companies that manufactured protective masks. The shortage of protective wear became apparent very early on and the U.S. Government began putting in orders for masks from wherever they could find them. Protective masks enjoyed strong international demand as well. As traders and investors we must take into account that the U.S. Government will likely be better prepared the next pandemic, however we can be somewhat certain that protective mask manufacturers will enjoy some increased demand all the same
